@@ -28,3 +28,6 @@ target/
 # Dotnet files
 bin/
 obj/
+/server/dotnet/.vs
+/client/.idea
+/server/dotnet/server.csproj.user
